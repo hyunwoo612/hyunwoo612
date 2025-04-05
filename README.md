@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 백엔드 개발자 최현우 입니다.
 
 <!--
 **hyunwoo612/hyunwoo612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

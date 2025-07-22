@@ -3,16 +3,22 @@
 ### Notion - http://bit.ly/Hyun612
 
 <p align="center">
-  <a href="mailto:tnwl2799@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="vertical-align: middle;" />
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+    <span style="text-decoration: none; color: inherit;">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="vertical-align: middle;" />
+    </span>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/s.u.j.i.333">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="vertical-align: middle;" />
+   
+  <a href="https://www.instagram.com/yourprofile" style="text-decoration: none;">
+    <span style="text-decoration: none; color: inherit;">
+      <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="vertical-align: middle;" />
+    </span>
   </a>
-  &nbsp;
-  <a href="https://www.notion.so/...">
-    <img src="https://skillicons.dev/icons?i=notion&theme=light" width="50" height="50" style="vertical-align: middle;" />
+   
+  <a href="https://www.notion.so/yourpage" style="text-decoration: none;">
+    <span style="text-decoration: none; color: inherit;">
+      <img src="https://skillicons.dev/icons?i=notion&theme=light" width="50" height="50" style="vertical-align: middle;" />
+    </span>
   </a>
 </p>
 

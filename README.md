@@ -3,7 +3,7 @@
 ### Notion - http://bit.ly/Hyun612
 
 <p align="center">
-  <a href="mailto:tnwl2799@gmail.com" style="color: #fff;">
+  <a href="mailto:tnwl2799@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="50" height="50" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;

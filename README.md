@@ -2,9 +2,6 @@
 
 ### Notion - http://bit.ly/Hyun612
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-</p>
 
 
 

@@ -1,7 +1,27 @@
 ## Hello, Hyunwoo's GitHub
 
-### Notion - http://bit.ly/3FUvzJj
-ㅇㅇㅇ
+### Notion - http://bit.ly/Hyun612
+
+ <div align="center" style="display: flex; width: 100%;">
+    <p>
+      <a href="mailto:tnwl2799@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="52" height="52" style="margin-right: 10px;" />
+      </a>
+    </p>
+    <p>
+      <a href="https://www.instagram.com/s.u.j.i.333"> 
+        <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="52" height="52" style="margin-right: 10px;" />
+      </a>
+    </p>
+    <p>
+      <a href="https://www.notion.so/7dd1d10bfcc748c2bf9eaec0b53c29f9?source=copy_link"> 
+        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" width="52" height="52" />
+      </a>
+    </p>
+  </div>
+
+
+
 
 
 

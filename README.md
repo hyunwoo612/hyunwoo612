@@ -3,7 +3,7 @@
 ### Notion - http://bit.ly/3FUvzJj
 
 <div>
-<div align="center" style="display: flex;">
+<div align="center" style="display: flex">
     <p style="flex">
       <a href="mailto:tnwl2799@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="52" height="52" style="margin-right: 10px;" />

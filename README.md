@@ -3,17 +3,17 @@
 ### Notion - http://bit.ly/Hyun612
 
 <p align="center">
-  <button onclick="window.location.href='mailto:your.email@example.com'" style="border: none; background: none; padding: 0; cursor: pointer;">
+  <a href="mailto:your.email@example.com" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="display: block; border: none;" alt="Gmail" />
-  </button>
+  </a>
    
-  <button onclick="window.location.href='https://www.instagram.com/develop_hyun'" style="border: none; background: none; padding: 0; cursor: pointer;">
+  <a href="https://www.instagram.com/develop_hyun" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="display: block; border: none;" alt="Instagram" />
-  </button>
+  </a>
    
-  <button onclick="window.location.href='https://www.notion.so/yourpage'" style="border: none; background: none; padding: 0; cursor: pointer;">
+  <a href="https://www.notion.so/yourpage" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
     <img src="https://skillicons.dev/icons?i=notion&theme=light" width="50" height="50" style="display: block; border: none;" alt="Notion" />
-  </button>
+  </a>
 </p>
 
 

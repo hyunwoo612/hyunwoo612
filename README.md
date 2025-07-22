@@ -2,7 +2,19 @@
 
 ### Notion - http://bit.ly/Hyun612
 
-
+<p align="center">
+  <a href="mailto:tnwl2799@gmail.com" style="color: #fff;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="50" height="50" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/s.u.j.i.333" style="color: #fff;">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="50" height="50" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.notion.so/...">
+    <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" width="50" height="50" style="vertical-align: middle;" />
+  </a>
+</p>
 
 
 

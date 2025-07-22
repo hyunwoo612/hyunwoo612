@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="display: block; border: none;" alt="Gmail" />
   </button>
    
-  <button onclick="window.location.href='https://www.instagram.com/yourprofile'" style="border: none; background: none; padding: 0; cursor: pointer;">
+  <button onclick="window.location.href='https://www.instagram.com/develop_hyun'" style="border: none; background: none; padding: 0; cursor: pointer;">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="display: block; border: none;" alt="Instagram" />
   </button>
    

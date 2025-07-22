@@ -3,18 +3,19 @@
 ### Notion - http://bit.ly/Hyun612
 
 <p align="center">
-  <a href="mailto:tnwl2799@gmail.com" style="text-decoration: none; color: inherit;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="50" height="50" style="vertical-align: middle;" />
+  <a href="mailto:tnwl2799@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/s.u.j.i.333" style="color: #fff;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="50" height="50" style="vertical-align: middle;" />
+  &nbsp;
+  <a href="https://www.instagram.com/s.u.j.i.333">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="vertical-align: middle;" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.notion.so/...">
-    <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" width="50" height="50" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=notion&theme=light" width="50" height="50" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 

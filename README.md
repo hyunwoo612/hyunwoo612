@@ -2,6 +2,7 @@
 
 ### Notion - http://bit.ly/3FUvzJj
 
+<div>
 <div align="center" style="display: flex;">
     <p style="flex">
       <a href="mailto:tnwl2799@gmail.com">
@@ -19,7 +20,7 @@
       </a>
     </p>
   </div>
-
+</div>
 <!--
 **hyunwoo612/hyunwoo612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

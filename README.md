@@ -2,7 +2,7 @@
 
 ### Notion - http://bit.ly/Hyun612
 
- <div align="center" style="display: flex; width: 100%;">
+ <div align="center" style="display: flex; width: '100%';">
     <p>
       <a href="mailto:tnwl2799@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="52" height="52" style="margin-right: 10px;" />

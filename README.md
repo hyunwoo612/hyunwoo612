@@ -2,20 +2,6 @@
 
 ### Notion - http://bit.ly/Hyun612
 
-<p align="center">
-  <a href="mailto:your.email@example.com" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="50" height="50" style="display: block; border: none;" alt="Gmail" />
-  </a>
-   
-  <a href="https://www.instagram.com/develop_hyun" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="50" height="50" style="display: block; border: none;" alt="Instagram" />
-  </a>
-   
-  <a href="https://www.notion.so/yourpage" style="text-decoration: none !important; border: none; outline: none; color: transparent;">
-    <img src="https://skillicons.dev/icons?i=notion&theme=light" width="50" height="50" style="display: block; border: none;" alt="Notion" />
-  </a>
-</p>
-
 
 
 
